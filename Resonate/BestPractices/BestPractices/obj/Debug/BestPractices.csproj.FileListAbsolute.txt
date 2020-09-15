@@ -1,0 +1,7 @@
+C:\Users\nehas\source\repos\BestPractices\BestPractices\obj\Debug\BestPractices.csprojAssemblyReference.cache
+C:\Users\nehas\source\repos\BestPractices\BestPractices\obj\Debug\BestPractices.csproj.CoreCompileInputs.cache
+C:\Users\nehas\source\repos\BestPractices\BestPractices\bin\Debug\BestPractices.exe.config
+C:\Users\nehas\source\repos\BestPractices\BestPractices\bin\Debug\BestPractices.exe
+C:\Users\nehas\source\repos\BestPractices\BestPractices\bin\Debug\BestPractices.pdb
+C:\Users\nehas\source\repos\BestPractices\BestPractices\obj\Debug\BestPractices.exe
+C:\Users\nehas\source\repos\BestPractices\BestPractices\obj\Debug\BestPractices.pdb
